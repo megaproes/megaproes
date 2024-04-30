@@ -1,16 +1,42 @@
-### Hi there 👋
+# Hello, I'm Oleksandr! 👋
 
-<!--
-**megaproes/megaproes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 😄
 
-Here are some ideas to get you started:
+I'm a passionate developer working with technologies like Rust and C++. Currently, I'm enhancing my trading knowledge and exploring advanced Rust concepts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Working On 🚀
+
+- 🔭 I’m currently working on trading algorithms.
+- 🌱 I’m currently learning advanced Rust programming techniques.
+
+## My GitHub Stats 📊
+
+![Oleksandr's GitHub stats](https://github-readme-stats.vercel.app/api?username=megaproes&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megaproes&layout=compact&theme=radical)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=megaproes&theme=radical)
+
+## Technologies & Tools 🔧
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+
+## Contribution Graph 🌐
+
+![Oleksandr's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=megaproes&theme=dracula)
+
+## Find Me Elsewhere 🌎
+
+[![LinkedIn][3.2]][3]
+
+<!-- Icons -->
+
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[3]: https://www.linkedin.com/in/alexander-borchenko-12122a268/
+

@@ -17,13 +17,14 @@ A developer with a background in C++. I'm currently expanding my skills into Rus
 - 🌱 I’m currently learning advanced Rust programming techniques and delving into statistical analysis with R.
 
 ## My GitHub Stats 📊
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=megaproes&theme=radical" alt="Total Contributions and Streaks" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=megaproes&show_icons=true&theme=radical" alt="Oleksandr Borchneko's GitHub Stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=megaproes&theme=radical" alt="Total Contributions and Streaks" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megaproes&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>

@@ -18,9 +18,11 @@ A developer with a background in C++. I'm currently expanding my skills into Rus
 
 ## My GitHub Stats 📊
 
-![Oleksandr's GitHub stats](https://github-readme-stats.vercel.app/api?username=megaproes&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=megaproes&show_icons=true&theme=radical" alt="Oleksandr Borchneko's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megaproes&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megaproes&layout=compact&theme=radical&langs_count=10)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=megaproes&theme=radical)
 

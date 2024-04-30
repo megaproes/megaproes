@@ -1,32 +1,31 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 # Hello, I'm Oleksandr! 👋
 
 ## About Me 😄
 
-I'm a passionate developer working with technologies like Rust and C++. Currently, I'm enhancing my trading knowledge and exploring advanced Rust concepts.
+A lifelong learner and developer, I thrive on the frontier of technology and finance. With a foundation in C++ and Rust, I'm deeply engaged in the world of algorithmic trading, continuously honing my skills and pushing the boundaries of automated financial strategies. My academic journey has recently expanded to include the nuanced realms of R, enriching my data analysis capabilities.
 
 ## What I'm Working On 🚀
 
 - 🔭 I’m currently working on trading algorithms.
-- 🌱 I’m currently learning advanced Rust programming techniques.
+- 🌱 I’m currently learning advanced Rust programming techniques and delving into statistical analysis with R.
 
 ## My GitHub Stats 📊
 
 ![Oleksandr's GitHub stats](https://github-readme-stats.vercel.app/api?username=megaproes&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megaproes&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megaproes&layout=compact&theme=radical&langs_count=8)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=megaproes&theme=radical)
 
-
-
 ## Contribution Graph 🌐
 
-[![Oleksandr's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=megaproes)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Oleksandr's github activity graph](https://activity-graph.herokuapp.com/graph?username=megaproes&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Find Me Elsewhere 🌎
 
@@ -39,4 +38,3 @@ I'm a passionate developer working with technologies like Rust and C++. Currentl
 <!-- Links to your social media accounts -->
 
 [3]: https://www.linkedin.com/in/alexander-borchenko-12122a268/
-

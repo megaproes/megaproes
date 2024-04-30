@@ -19,13 +19,10 @@ A lifelong learner and developer, I thrive on the frontier of technology and fin
 
 ![Oleksandr's GitHub stats](https://github-readme-stats.vercel.app/api?username=megaproes&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megaproes&layout=compact&theme=radical&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megaproes&layout=compact&theme=radical&langs_count=10)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=megaproes&theme=radical)
 
-## Contribution Graph 🌐
-
-[![Oleksandr's github activity graph](https://activity-graph.herokuapp.com/graph?username=megaproes&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Find Me Elsewhere 🌎
 

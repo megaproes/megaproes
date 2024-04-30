@@ -8,7 +8,7 @@
 
 ## About Me 😄
 
-I'm Oleksandr, a developer with a solid background in C++. I'm currently expanding my skills into Rust, particularly interested in its applications in financial technology and trading algorithms. I'm also exploring data analysis with the R programming language to broaden my analytical capabilities.
+A developer with a background in C++. I'm currently expanding my skills into Rust, particularly interested in its applications in financial technology and trading algorithms. I'm also exploring data analysis with the R programming language to broaden my analytical capabilities.
 
 
 ## What I'm Working On 🚀

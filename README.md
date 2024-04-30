@@ -26,8 +26,7 @@ I'm a passionate developer working with technologies like Rust and C++. Currentl
 
 ## Contribution Graph 🌐
 
-![Oleksandr's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=megaproes&theme=dracula)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=megaproes)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## Find Me Elsewhere 🌎
 
 [![LinkedIn][3.2]][3]

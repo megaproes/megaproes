@@ -1,3 +1,10 @@
+## Technologies & Tools 🔧
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+
 # Hello, I'm Oleksandr! 👋
 
 ## About Me 😄
@@ -17,16 +24,12 @@ I'm a passionate developer working with technologies like Rust and C++. Currentl
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=megaproes&theme=radical)
 
-## Technologies & Tools 🔧
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 ## Contribution Graph 🌐
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=megaproes)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Oleksandr's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=megaproes)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## Find Me Elsewhere 🌎
 
 [![LinkedIn][3.2]][3]

@@ -24,13 +24,13 @@ A lifelong learner and developer, I thrive on the frontier of technology and fin
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=megaproes&theme=radical)
 
 
-## Find Me Elsewhere 🌎
+## Find Me 🌎
 
 [![LinkedIn][3.2]][3]
 
 <!-- Icons -->
 
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png 
 
 <!-- Links to your social media accounts -->
 

@@ -8,7 +8,8 @@
 
 ## About Me 😄
 
-A lifelong learner and developer, I thrive on the frontier of technology and finance. With a foundation in C++ and Rust, I'm deeply engaged in the world of algorithmic trading, continuously honing my skills and pushing the boundaries of automated financial strategies. My academic journey has recently expanded to include the nuanced realms of R, enriching my data analysis capabilities.
+I'm Oleksandr, a developer with a solid background in C++. I'm currently expanding my skills into Rust, particularly interested in its applications in financial technology and trading algorithms. I'm also exploring data analysis with the R programming language to broaden my analytical capabilities.
+
 
 ## What I'm Working On 🚀
 

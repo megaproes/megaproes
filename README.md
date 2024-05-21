@@ -1,10 +1,10 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=34&duration=1000&pause=1000&color=F7F6EC&background=572FFF51&center=true&random=false&width=1000&lines=Hello!+I'm+Oleksandr!+;I+love+Rust!+And...;+also+I'm+a+crypto+hamster...;Trading+for+4+years+with+0+result+.+.+.)](https://git.io/typing-svg)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
-# Hello, I'm Oleksandr! 👋
 
 ## About Me 😄
 
